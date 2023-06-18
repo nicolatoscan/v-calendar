@@ -23,7 +23,7 @@
       v-popover="navPopoverOptions"
     >
       <CalendarSlot name="header-title" :title="page.title">
-        <span>{{ page.title }}</span>
+        <span>{{ page.title }} TEST </span>
       </CalendarSlot>
     </button>
     <button
